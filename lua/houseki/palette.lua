@@ -1,0 +1,22 @@
+local palette = {
+    base = '#101010',
+    surface = '#1c1c1c',
+    overlay = '#2e2e2e',
+    inactive = '#8ba2a2',
+    subtle = '#99cccc',
+    text = '#cbf3f3',
+    phosphophyllite = '#49acaa',
+    jade = '#46a468',
+    citrine = '#a3b370',
+    amethyst = '#9276bd',
+    rosequartz = '#bd7bb5',
+    coral = '#bd65b3',
+    cinnabar = '#a33c3d',
+    sapphire = '#4e7cc0',
+    aquamarine = '#5ca4cc',
+    highlight = '#1e1e1e',
+    highlight_inactive = '#1c1c1c',
+    highlight_overlay = '#2e2e2e',
+    none = 'NONE',
+}
+return palette
